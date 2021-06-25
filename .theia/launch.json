@@ -18,7 +18,7 @@
             "watch": true,
             "cleanUp": true,
             "portForward": true,
-            "imageRegistry": "gcr.io/rubbo-sd"
+            "imageRegistry": "gcr.io/qwiklabs-gcp-00-1a7184e7d0ee"
         }
     ]
 }
